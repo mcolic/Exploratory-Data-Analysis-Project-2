@@ -5,10 +5,11 @@
 ############################################
 
 ################################################################################
-# Question 2
-# Have total emissions from PM2.5 decreased in the Baltimore City, Maryland
-# (𝚏𝚒𝚙𝚜 == "𝟸𝟺𝟻𝟷𝟶") from 1999 to 2008? Use the base plotting system to make a
-# plot answering this question.
+# Question 3
+# Of the four types of sources indicated by the 𝚝𝚢𝚙𝚎 (point, nonpoint, onroad, 
+# nonroad) variable, which of these four sources have seen decreases in emissions
+# from 1999–2008 for Baltimore City? Which have seen increases in emissions from
+# 1999–2008? Use the ggplot2 plotting system to make a plot answer this question.
 ################################################################################
 
 # Reading the two files using readRDS() function
